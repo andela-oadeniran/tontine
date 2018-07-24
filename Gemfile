@@ -60,3 +60,6 @@ gem 'bcrypt', '~> 3.1.7'
 
 # authentication with jwt
 gem 'jwt'
+
+# keep secrets
+gem 'figaro'
